@@ -1,0 +1,27 @@
+# New Beginnings - Moving to AzureCAT
+
+April 5, 2016
+
+I am excited to share the news that I am moving on from my current role as Chief Architect of the GSI Azure COE team and will become a Principal Program Manager on the AzureCAT team!
+
+## Azure COE
+
+For the past few years I have been part of a group called Azure Center of Excellence (COE).  I have had the opportunity to work in a presales capacity for MCS to help customers see the opportunity for Azure and cloud-based services.  I have worked with huge customers such as Walmart and innovative customers like NAV Canada deliver IOT solutions.  I have worked with customers large and small, and helped them to architect solutions that leverage the breadth of Azure services to deliver business results.  Quite a bit of time was spent helping to educate the MCS field on Azure, showing how to architect solutions using common patterns.  During this time I helped deliver guidance for running SharePoint on Azure and spoke at conferences on best practices for solutions on Azure.  During this time, we realized that there was a huge partner opportunity to help drive Azure solutions at scale, and there was an opportunity to help our partners scale on Azure. 
+
+## GSI Azure COE
+
+My current team helps our Global Systems Integrators partners build their consulting practices with Azure.  This is a new group in Microsoft as of July 2015, and we spent the first 8 months creating specialized training content for Architects and flying around the world talking to the lead Architects at our GSI partners teaching them about how to design systems using Azure.  We also spend a considerable amount of time working with our partners to understand their delivery capabilities for Azure and teaching them how to increase their capacity through a framework that we designed.  The entire process revolves around understanding what the partner is good at and showing them how to deliver their core solutions using Azure, helping our partners to realize new business opportunities.  This team is a Center of Excellence (COE) team, comprised of team members that have built consulting practices and businesses, and delivered large scale solutions on Azure. 
+
+I had the unique experience of helping to build the team from scratch, recruiting some of the best people in the field.  Together we built a very solid program that helps our partners to build their own COEs and incubate Azure as a technology so they can grow their delivery capabilities.  This was a hugely rewarding experience as we worked closely with lead Architects from around the industry, training them on Azure and showing them how to translate technology to business results.  The team reports to Microsoft Services, which makes sense because the people in the group understand consulting and delivery challenges.  We can help translate the lessons learned in MCS to help our partners achieve skill and scale while learning from the hard lessons previously learned.
+
+The team will be hiring to backfill my role soon, I will post the link for the job description.  This is a global team so no relo is required, and it provides the opportunity for international travel to work with GSIs who are also global.  I live in Dallas, Texas, and I have recently been able to visit India, Kuala Lumpur, Germany, Amsterdam, London, and of course, I have been to Seattle, Washington a number of times recently.  If you are interested in seeing the world and building your professional network, this is a huge opportunity for the right candidate.
+
+## AzureCAT
+
+My career at Microsoft has been focused on learning how Microsoft works by working in different organizations.  I worked in Developer Platform Evangelism so that I could see how a customer adopts Microsoft technologies from the earliest stages.  I worked in Premier Field Engineering so that I could understand the challenges that customers have once they have adopted our technologies and how to operate them successfully.  I worked in Microsoft Consulting Services so that I could understand how a professional services organization delivers services based on cloud technologies and how the cloud affects traditional consulting models.  My next evolution in my career is to work closer with engineering to help influence how those cloud services are delivered to customers and provide feedback to engineering to improve the services that we deliver. 
+
+The Azure Customer Advisory Team (AzureCAT) is focused on helping our customers succeed with Microsoft Azure, understanding the challenges that customers have and helping them to design the best solution possible.  I will be looking for ways to improve the experience and help more customers succeed as a result.   I am incredibly excited about this next phase in my career as it builds on my past experiences of adoption, delivery, and execution.  This role puts me directly in touch with delivery teams at a highly technical level, and I am looking forward to a deep technical focus while expanding on my ability to influence business direction for our customers. 
+
+I am looking forward to the next phase in my career and continuing to grow Microsoft’s Azure business.   I am thankful for the opportunities that I have had and the friendships I have made in DPE, PFE, and MCS, and can’t wait to be a part of the engineering team.
+
+On to the next challenge!
